@@ -7,5 +7,3 @@ is better than nothing.  The samples are being categorized.
 * vfs - Virtual File System
 * wifi - WiFi access
 * curl - Examples of curl usage
-
-Design by https://www.linkedin.com/in/musacufalci/
